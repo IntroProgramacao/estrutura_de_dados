@@ -1,0 +1,20 @@
+1. Vetores
+
+Criar as seguintes funções que manipulam um vetor de inteiros passado em parâmetro:
+- 'inicializar' que inicializa o vetor passado em parâmetro
+- 'imprimir' que imprime os valores do vetor
+- 'palindrome' que verifica se o vetor é um palindroma
+- 'inverter' que inverte os elementos do vetor
+
+Criar o programa principal que testa as funções
+
+
+2. Matrizes
+
+Criar as seguintes funções que manipulam matrizes 4*4 de inteiros passadas em parâmetro:
+- 'inicializar' que inicializa uma matriz
+- 'imprimir' que imprime os valores da matriz
+- 'inverter' que inverte os elementos da matriz
+- 'multiplicar' que multiplica duas matrizes passadas em parametro, armazendo o resultado em um terceira matriz passada em paramêtro também
+
+Criar o programa principal que testa as funções
